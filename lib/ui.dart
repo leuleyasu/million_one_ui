@@ -49,16 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
     "six",
   ];
   List imagess = [
-    // 'photo-1.jpeg',
-    // "photo-2.jpeg",
-    // "photo-3.jpeg",
-    // "photo-4.jpeg",
-    // "photo-5.jpeg",
-    // "photo-5.jpeg",
-    // "photo-6.jpeg",
-    // Image.asset("photo-7.jpeg"),
-    // Image.asset("photo-7.jpeg"),
-    // Image.asset("photo-7.jpeg"),
+    
     "assets/images/photo-2.jpeg",
     "assets/images/photo-1.jpeg",
     "assets/images/photo-3.jpeg",
@@ -70,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
     "assets/images/photo-9.jpeg",
   ];
   int indexx = 0;
-  // int indexxx = indexx+  1;
+ 
   bool pressed = false;
   @override
   Widget build(BuildContext context) {
